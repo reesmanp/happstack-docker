@@ -1,4 +1,4 @@
 #!/bin/sh
 
-docker stop happstack-server
+docker rm -f happstack-server
 

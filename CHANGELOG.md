@@ -2,6 +2,14 @@
 
 ---
 
+## [0.2.1] -- 2018-03-10
+### Fixed
+- stopping a container now removes the container
+### Added
+- restart script that reuses the same container
+
+---
+
 ## [0.2.0] -- 2018-03-10
 ### Added
 - bin directory to build, run, and stop docker images and containers
