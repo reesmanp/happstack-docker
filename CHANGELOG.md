@@ -2,6 +2,14 @@
 
 ---
 
+## [0.3.0] - 2019-02-25
+### Added
+- New argument to start script to determine port being exposed
+### Fixed
+- Documentation to be more newbie friendly
+
+---
+
 ## [0.2.2] -- 2019-02-25
 ### Fixed
 - documentation as there was none
