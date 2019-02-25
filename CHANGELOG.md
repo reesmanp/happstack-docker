@@ -2,6 +2,12 @@
 
 ---
 
+## [0.3.1] - 2019-02-25
+### Fixed
+- Documentation formatting
+
+---
+
 ## [0.3.0] - 2019-02-25
 ### Added
 - New argument to start script to determine port being exposed

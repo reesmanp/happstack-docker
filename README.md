@@ -3,15 +3,15 @@ Easy to set up happstack server inside a docker container
 
 ## Getting Started
 Follow these steps to get things started in here.
-- Note: Docker needs to be installed and already running
+  - Note: Docker needs to be installed and already running
 
-`./bin/build.sh`
-- Note: this might take a few minutes, especially when downloading haskell itself
-- Note: Cabal is updating their commands. This might throw a few warnings. I will attempt to fix them soon.
-`./bin/start.sh 8080`
-- Note: See below for more documentation on this command
-- Note: to test the default application as is go to `localhost:8080/hello/dave` in your browser
-`./bin/stop.sh`
+- `./bin/build.sh`
+  - Note: this might take a few minutes, especially when downloading haskell itself
+  - Note: Cabal is updating their commands. This might throw a few warnings. I will attempt to fix them soon.
+- `./bin/start.sh 8080`
+  - Note: See below for more documentation on this command
+  - Note: to test the default application as is go to `localhost:8080/hello/dave` in your browser
+- `./bin/stop.sh`
 
 
 ## How To Use
