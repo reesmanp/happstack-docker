@@ -2,6 +2,12 @@
 
 ---
 
+## [0.2.2] -- 2019-02-25
+### Fixed
+- documentation as there was none
+
+---
+
 ## [0.2.1] -- 2018-03-10
 ### Fixed
 - stopping a container now removes the container
